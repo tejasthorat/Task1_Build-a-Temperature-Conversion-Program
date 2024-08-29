@@ -1,5 +1,3 @@
-Task-01
-
 Build a Temperature Conversion Program
 
 Create a program that converts temperatures between Celsius, Fahrenheit, and Kelvin scales. 
